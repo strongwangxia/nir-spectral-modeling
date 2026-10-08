@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.model_packages/
+.plot_packages/
+建模集/
+验证集/
+建模集化学成分.xlsx
+参赛提交/
+reproduction/
+*.joblib
+*.npz
+光谱图/
